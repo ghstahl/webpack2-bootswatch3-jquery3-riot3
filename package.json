@@ -27,6 +27,7 @@
     "babel-preset-es2015-riot": "^1.1.0",
     "bootstrap": "^3.3.7",
     "bootswatch": "^3.3.7",
+    "cpx": "^1.5.0",
     "css-loader": "^0.28.2",
     "file-loader": "^0.11.1",
     "jquery": "^3.2.1",
